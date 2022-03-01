@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Skills
+
+### Frameworks
+
+#### Frontend
+- `Flutter`
+- `React`
+
+#### Backend
+- `Express.js`
+
+#### Database
+- `MySQL`
+- `MongoDB`
+- `Redis`
+
+### Programming Languages
+- `JavaScript`(`node.js`)
+- `Dart`
+- `C++`
+- `Rust`
