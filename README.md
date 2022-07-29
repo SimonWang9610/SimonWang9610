@@ -22,8 +22,15 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SimonWang9610&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 - how to reach me:
+
   - [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:dengpan9610.wang@gmail)
   - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/wang-dengpan-135898190)
+
+  ## Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonWang9610&count_private=true&show_icons=true" />
+</a>
 
 ## Frameworks
 
