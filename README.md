@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SimonWang9610&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 - how to reach me:
-
-  - [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:dengpan9610.wang@gmail)
-  - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/wang-dengpan-135898190)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:dengpan9610.wang@gmail)
+  and [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/wang-dengpan-135898190)
 
   ## Stats
 
@@ -34,47 +33,39 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonWang9610&count_private=true&show_icons=true" />
 </a>
 
-## Frameworks
+## Recent
+I am currently maintaining three Dart/Flutter packages:
+1. [positioned_scroll_observer](https://github.com/SimonWang9610/indexed_scroll_observer), which allows scrolling to a specific index in any Flutter scroll view not limited to `ListView` and `GridView`. 
+2. [simple_http_api](https://github.com/SimonWang9610/api), which extends the official Dart HTTP package with the ability of cancelation, timeout, and EventSource, supporting streaming http repsonses from servers, e.g., streaming ChatGPT API.
+3. [relative_stack](https://github.com/SimonWang9610/relative_stack), which position widgets relative to your specific widgets, instead of using explicit positions in `Stack`.
 
-- Front-end (Mobile & Web)
+## Application Development
 
-  - <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
+The most frequent technology I am using is <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> for developing cross-platform applications. You could find my personl Flutter projects in my Github, like:
+1. [messaging](https://github.com/SimonWang9610/messaging) is a chat application purely based on firesbase and supports caching conversations/messages in local database (SQLite) on Android/iOS. In further, it would support chatting with a chatbot (based on ChatGPT API).
+2. [weaver_editor](https://github.com/SimonWang9610/weaver-editor) is a prototyped rich text editor purely using Dart, supporting block-style editing and SlatJS protocol, although it is discontinued now.
+3. [flutter_video_call](https://github.com/SimonWang9610/flutter-video-call) is a video call application using flutter_webrtc for the applications and has two kinds (in different branches) of Node.js servers to ensble rtc calling based on WebSocket: 
+    - using Agora SDK
+    - building a MediaServer using kurento.
 
-  - <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></img>
 
-- Back-end
+Meanwhile, I am also proficient with developing API servers using <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></img>.
 
-  - <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></img>
+## Other activities
+Apart from `Flutter` and `Node.js`, I also used <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"> to build a convolutional nerual network from scratch, see [cnn](https://github.com/SimonWang9610/cnn)
 
-  - <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></img>
-  - <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></img>
-  - <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></img>
+By using `Rust` and `JavaScript`, I converted a quantized CNN model into <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white"> and then deployed the model on the web, although it was just prototyped.
 
-## Programming Language
+## Summary
 
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
-<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white">
+### Programing Language
+Proficient in: <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> and <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></img>.
 
-## Database
+Familiar with: `Rust`, `Python`, `Swift` and `Kotlin`
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></img>
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></img>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
+### Database
+Familiar with `MySQL`, `MongoDB` and `SQLite`
 
-## Development Environment
+### Development Environment
+Most often: `MacOS`, also using `Windows` and `Ubuntu`
 
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
-
-## Programming Tools
-
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
-
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></img>
-
-<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
