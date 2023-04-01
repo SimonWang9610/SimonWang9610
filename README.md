@@ -38,6 +38,7 @@ I am currently maintaining three Dart/Flutter packages:
 1. [positioned_scroll_observer](https://github.com/SimonWang9610/indexed_scroll_observer), which allows scrolling to a specific index in any Flutter scroll view not limited to `ListView` and `GridView`. 
 2. [simple_http_api](https://github.com/SimonWang9610/api), which extends the official Dart HTTP package with the ability of cancelation, timeout, and EventSource, supporting streaming http repsonses from servers, e.g., streaming ChatGPT API.
 3. [relative_stack](https://github.com/SimonWang9610/relative_stack), which position widgets relative to your specific widgets, instead of using explicit positions in `Stack`.
+3. [flutter_gpt_tokenizer](https://github.com/SimonWang9610/gpt_tokenizer), which enables deverlopers to encode/decode their prompts for ChatGPT APIs, so that they could count the lenght of tokens for prompts(sentences/words) and then call ChatGPT APIs more efficiently. This package utitlizes Dart FFI to bridge the BPE tokenizer (written in Rust) that uses the tiktoken files from [OpenAI tiktoken](https://github.com/openai/tiktoken)
 
 ## Application Development
 
