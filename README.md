@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonWang9610&theme=default&show_icons=true&hide_border=true&layout=compact" alt="SimonWang9610's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=SimonWang9610&theme=default&show_icons=true&hide_border=true&count_private=true" alt="SimonWang9610's GitHub Stats" />
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=blueberry&fontFamily=&preferLogin=false"> 
+  <img  alt="SimonWang9610's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SimonWang9610?cardType=level&theme=blueberry&fontFamily=&preferLogin=false" />  
+</a>
 <img src="https://streak-stats.demolab.com?user=SimonWang9610&theme=default&hide_border=true" alt="SimonWang9610's GitHub Stats" />
 
 ## Recent
