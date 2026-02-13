@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## Stats
 
-<img alt="SimonWang9610's Top Languages", src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonWang9610&layout=compact&theme=vision-friendly-dark" />
+<img alt="SimonWang9610's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonWang9610&layout=compact&theme=vision-friendly-dark" />
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=blueberry&fontFamily=&preferLogin=false"> 
   <img  alt="SimonWang9610's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SimonWang9610?cardType=level&theme=blueberry&fontFamily=&preferLogin=false" />  
