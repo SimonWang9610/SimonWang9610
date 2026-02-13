@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:dengpan9610.wang@gmail)
   and [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/wang-dengpan-135898190)
 
-  ## Stats
+## Stats
 
-[![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonWang9610)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonWang9610&theme=default&show_icons=true&hide_border=true&layout=compact" alt="SimonWang9610's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=SimonWang9610&theme=default&show_icons=true&hide_border=true&count_private=true" alt="SimonWang9610's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=SimonWang9610&theme=default&hide_border=true" alt="SimonWang9610's GitHub Stats" />
 
 ## Recent
 I am currently maintaining three Dart/Flutter packages:
