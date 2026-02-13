@@ -28,7 +28,8 @@ Here are some ideas to get you started:
   and [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/wang-dengpan-135898190)
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonWang9610&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img alt="SimonWang9610's Top Languages", src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonWang9610&layout=compact&theme=vision-friendly-dark"></a>
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=blueberry&fontFamily=&preferLogin=false"> 
   <img  alt="SimonWang9610's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SimonWang9610?cardType=level&theme=blueberry&fontFamily=&preferLogin=false" />  
