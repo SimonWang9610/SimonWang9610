@@ -1,8 +1,9 @@
 <meta name="google-site-verification" content="IrHoB31wMNlYGEkkWlvfo6S2VCTyitnr6EWhUJIIoZw" />
 
-# Hi there, I'm Dengpan Wang 👋
+# Hi there, I'm Simon (Dengpan) Wang 👋
 
 mailto: dengpan9610.wang@gmail.com
+
 linkedin: https://www.linkedin.com/in/dengpan-simon-wang/
 
 ## Senior Flutter & Full-Stack Engineer
