@@ -1,9 +1,9 @@
 <meta name="google-site-verification" content="IrHoB31wMNlYGEkkWlvfo6S2VCTyitnr6EWhUJIIoZw" />
 
 # Hi there, I'm Dengpan Wang 👋
-- how to reach me:
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:dengpan9610.wang@gmail)
-  and [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/wang-dengpan-135898190)
+
+mailto: dengpan9610.wang@gmail.com
+linkedin: https://www.linkedin.com/in/dengpan-simon-wang/
 
 ## Senior Flutter & Full-Stack Engineer
 
@@ -51,7 +51,7 @@ Currently working on enterprise-grade video, IoT, and real-time systems using Fl
 
 - [simple_dropdown](https://github.com/SimonWang9610/simple_dropdown) Customizable overlay-based dropdown framework for Flutter.
 
-- [simple_dashboard](https://github.com/SimonWang9610/simple_dashboard)Reusable dashboard framework supporting drag-and-drop and resizable workspace layouts.
+- [simple_dashboard](https://github.com/SimonWang9610/simple_dashboard) Reusable dashboard framework supporting drag-and-drop and resizable workspace layouts.
 
 - [simple_floating_panel](https://github.com/SimonWang9610/simple_floating_panel) Flexible in-app multi-window framework.
 
