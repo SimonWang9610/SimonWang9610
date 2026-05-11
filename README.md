@@ -54,6 +54,6 @@ Currently working on enterprise-grade video, IoT, and real-time systems using Fl
 
 - [simple_dashboard](https://github.com/SimonWang9610/simple_dashboard) Reusable dashboard framework supporting drag-and-drop and resizable workspace layouts.
 
-- [simple_floating_panel](https://github.com/SimonWang9610/simple_floating_panel) Flexible in-app multi-window framework.
+- [simple_floating_panel](https://github.com/SimonWang9610/simple_floating_panel) Desktop-style multi-window system for Flutter: draggable/resizable panels, z-order management, minimize/restore, master-slave relations, and Overlay-based mounting.
 
 - [simple_table_grid](https://github.com/SimonWang9610/simple_table_grid) High-performance enterprise-grade table/grid rendering framework for Flutter.
