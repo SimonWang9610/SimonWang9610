@@ -16,7 +16,7 @@ I build high-performance cross-platform applications and reusable developer tool
 - Scalable architecture design
 - Developer tooling and reusable packages
 
-Currently working on enterprise-grade video, IoT, and real-time systems using Flutter, Golang, Node.js, Kafka, Redis, WebRTC, and cloud-native technologies.
+Currently working on enterprise-grade video, IoT, and real-time systems using Flutter, WebRTC, and cloud-native technologies.
 
 ---
 
